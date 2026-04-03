@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Local Landmarks Map</title>
+    <link rel="stylesheet" href="https://js.arcgis.com/4.30/esri/themes/light/main.css">
+    <link rel="stylesheet" href="style.css">
+    <script src="https://js.arcgis.com/4.30/"></script>
+</head>
+<body>
+    <h1>Local Landmarks Map</h1>
+
+    <label for="categoryFilter">Filter markers:</label>
+    <select id="categoryFilter">
+        <option value="All">All</option>
+        <option value="Park">Parks</option>
+        <option value="Museum">Museums</option>
+        <option value="School">Schools</option>
+        <option value="Store">Stores</option>
+    </select>
+
+    <div id="viewDiv"></div>
+
+    <script src="script.js"></script>
+</body>
+</html>
