@@ -16,4 +16,4 @@ An interactive web map of 20 local places in Idaho Falls, Idaho, built with the 
 
 ## How to Run
 
-Visit the live demo above, or open `index.html` in a web browser., since the ArcGIS library loads from its CDN.
+Visit the live demo above, or open `index.html` in a web browser.
