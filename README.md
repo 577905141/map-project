@@ -1,6 +1,7 @@
 # Local Landmarks Map
 
 An interactive web map of 20 local places in Idaho Falls, Idaho, built with the ArcGIS Maps SDK for JavaScript.
+**Live demo:** https://577905141.github.io/map-project/
 
 ## Features
 
